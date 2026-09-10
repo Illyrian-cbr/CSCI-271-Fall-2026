@@ -7,3 +7,6 @@ The hello.cpp program starts off by greeting the user on one line, then it asks 
 To run the program in VS Code, the user can click the dropdown button next to the arrow in the top right corner and select "Run C/C++ File". This automatically compiles your code, and if there are no errors, it also runs your code.
 
 I used ChatGPT to help troubleshoot my Git installation on my Mac and the GitHub setup in VS Code.
+
+## Assignment 2
+The assignment2.cpp program asks the user to enter their name and age. It stores the name in a string variable and the age in an integer variable, then uses cout to print a greeting that includes both values. This assignment helped me practice variables, data types, cin, cout, and basic user input/output.
