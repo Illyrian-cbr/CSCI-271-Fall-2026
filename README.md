@@ -10,3 +10,8 @@ I used ChatGPT to help troubleshoot my Git installation on my Mac and the GitHub
 
 ## Assignment 2
 The assignment2.cpp program asks the user to enter their name and age. It stores the name in a string variable and the age in an integer variable, then uses cout to print a greeting that includes both values. This assignment helped me practice variables, data types, cin, cout, and basic user input/output.
+
+## Assignment 3
+The temp_check.cpp program prompts the user to enter a temperature in Farenheit and uses if, else if, and else statements to classify the temperature as Freezing, Cold, Mild, or Hot.
+
+The eligibility.cpp program asks the user for their age and membership status, then uses Boolean logic with && and || to determine whether the user/customer qualify for a discount. 
