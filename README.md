@@ -15,3 +15,10 @@ The assignment2.cpp program asks the user to enter their name and age. It stores
 The temp_check.cpp program prompts the user to enter a temperature in Farenheit and uses if, else if, and else statements to classify the temperature as Freezing, Cold, Mild, or Hot.
 
 The eligibility.cpp program asks the user for their age and membership status, then uses Boolean logic with && and || to determine whether the user/customer qualify for a discount. 
+
+## Assignment 4
+The mult_table.cpp program asks the user to enter a number and uses a for loop to print the multiplication table for that number from 1 through 10.
+
+The menu_validate.cpp program asks the user to enter a menu choice of 1, 2, or 3 and uses a do...while loop to keep asking until the user enters a valid choice. 
+
+I used AI to assist me in understanding the logical flaws in my code whenever it failed to run or would run in a way I did not intend it to. None of my work was generated or completed by AI, and no answers were given to me for my work. AI simply guided me in understanding where my code broke. All debugging was done by me.
