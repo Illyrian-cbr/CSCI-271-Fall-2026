@@ -22,3 +22,10 @@ The mult_table.cpp program asks the user to enter a number and uses a for loop t
 The menu_validate.cpp program asks the user to enter a menu choice of 1, 2, or 3 and uses a do...while loop to keep asking until the user enters a valid choice. 
 
 I used AI to assist me in understanding the logical flaws in my code whenever it failed to run or would run in a way I did not intend it to. None of my work was generated or completed by AI, and no answers were given to me for my work. AI simply guided me in understanding where my code broke. All debugging was done by me.
+
+## Assignment 5
+The score_stats.cpp program asks the user to enter five test scores and uses an array to calculate the sum, average, highest score, and lowest score.
+
+The search_count.cpp program searches an array for a number entered by the user. It displays the index where the number first appears and how many times it occurs. If the number is not found, it displays a message.
+
+The array_utils.cpp program uses functions to display an array in forward and reverse order and count how many values are greater than a number entered by the user.
