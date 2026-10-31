@@ -29,3 +29,8 @@ The score_stats.cpp program asks the user to enter five test scores and uses an 
 The search_count.cpp program searches an array for a number entered by the user. It displays the index where the number first appears and how many times it occurs. If the number is not found, it displays a message.
 
 The array_utils.cpp program uses functions to display an array in forward and reverse order and count how many values are greater than a number entered by the user.
+
+## Assignment 7
+The binary_search.cpp program asks the user to enter a number and uses binary search to find it in a sorted array. If the number is found, it displays the index where it was found. If not, it displays a message.
+
+The grade_tracker.cpp program asks the user how many grades they want to enter and stores them in a vector. It then displays all the grades, the total number of grades, the average, and the highest grade.
