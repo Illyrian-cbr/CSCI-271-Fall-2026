@@ -34,3 +34,6 @@ The array_utils.cpp program uses functions to display an array in forward and re
 The binary_search.cpp program asks the user to enter a number and uses binary search to find it in a sorted array. If the number is found, it displays the index where it was found. If not, it displays a message.
 
 The grade_tracker.cpp program asks the user how many grades they want to enter and stores them in a vector. It then displays all the grades, the total number of grades, the average, and the highest grade.
+
+## Assignment 8
+The vowel_counter.cpp program asks the user to enter a sentence and uses a for loop to check each character for vowels. It converts each character to lowercase using tolower() and counts the total number of vowels found in the sentence.
